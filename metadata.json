@@ -1,0 +1,6 @@
+{
+  "name": "M.V. Electronix Arcade",
+  "description": "An immersive premium dark mode retro-futuristic arcade console featuring 5 highly interactive, fully-functional classic games: Solitaire, Sudoku, Chess, Word Search, and Memory Match with smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;650;700;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+  
+  --color-brand-charcoal: #343a40;
+  --color-brand-accent: #00f5ff;
+  --color-brand-purple: #6b21ff;
+  --color-brand-dark: #020205;
+}
+
+body {
+  background-color: #020205;
+  color: #ffffff;
+  margin: 0;
+  height: 100%;
+}
